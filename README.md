@@ -4,7 +4,7 @@ This is an implementation of multi-player game called Mafia in Java.
 Mafia is a popular party game that requires one to think, manipulate, and deceive others in order to win.     
 Since the COVID-19 pandemic, it has become rather difficult for people to host parties; hence I developed a mafia game simulator. The players apart from the user are computer-simulated.      
     
-## Rules of the game: 
+### Rules of the game: 
 
 **Plot**: There is a village of N players. A player can be either a commoner, a detective, a healer,   
 or a mafia. A commoner only knows that he is a commoner. A detective knows all the other        
